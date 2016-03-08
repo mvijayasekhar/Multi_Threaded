@@ -7,8 +7,6 @@
 #include <stdlib.h>
 #include <pthread.h>
 
-#define N 2  /* # of thread */
-
 typedef struct arr_info {
 	int low;
 	int high;
