@@ -31,5 +31,7 @@ int main()
 		printf ("%d ", arr_info.data[loop]);
 	printf("\n");
 
+	free(arr_info.data);
+
 	return 0;
 }
