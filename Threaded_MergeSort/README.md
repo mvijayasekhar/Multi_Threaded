@@ -1,3 +1,5 @@
 # Multi-Threaded Merge Sort
 
+Brief:
+------
 This sample shows you how to a implement a merge sort using multithread concepts (pthread).
