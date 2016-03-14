@@ -1,4 +1,18 @@
-# Multi-Threaded Merge Sort
+Multi-Threaded Merge Sort
 
-## Brief:
+Brief:
+------
 This sample shows you how to a implement a merge sort using multithread concepts (pthread).
+
+How to Compile:
+---------------
+	$ make
+
+How to Run:
+-----------
+	$ ./TMerge
+	Enter Total Number of Elements to be Sort: 5
+
+	Enter Array Elements which to be Sort: 5 4 3 2 1
+	1 2 3 4 5
+	$ 
